@@ -1,0 +1,18 @@
+[
+    {
+        "name": "John Smith",
+        "email": "johnsmith@example.com",
+        "photo_url": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "name": "Jane Doe",
+        "email": "janedoe@example.com",
+        "photo_url": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+        "compilerOptions": {
+          "resolveJsonModule": true,
+          "esModuleInterop": true
+        }
+    }  
+]
